@@ -1,0 +1,13 @@
+{
+  "name": "container-web-test",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Application for k8s Demo",
+  "main": "app.js",
+  "author": "Andrew Urwin <andrew.urwin@devopsgroup.com>",
+  "license": "Do whatever you want!",
+  "dependencies": {
+    "express": "4.16.3",
+    "pug": "2.0.3"
+  }
+}
